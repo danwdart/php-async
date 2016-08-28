@@ -1,0 +1,16 @@
+{
+    "name": "jolharg/async",
+    "description": "Async methods a la Node.js",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kathie Dart",
+            "email": "git@kathiedart.uk"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "Jolharg\Async": "src" }
+    }
+}
