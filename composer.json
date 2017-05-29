@@ -11,6 +11,6 @@
     ],
     "require": {},
     "autoload": {
-        "psr-4": { "Jolharg\Async": "src" }
+        "psr-4": { "Jolharg\\Async": "src" }
     }
 }
